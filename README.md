@@ -4,7 +4,9 @@ This specific style of mashup was inspired by the song T.I.M.E. on the “Mouth 
 the Y.M.C.A. (Village People) vocals on top of Time (Hans Zimmer). In this odd combination he
 conveys a deeper meaning, or at least a different message, than the two pieces would do
 individually. The first time listening to this kind of mashup can be quite jarring, so I would
-recommend listening to [Mouth Moods](http://www.neilcic.com/mouthmoods/) first.
+recommend listening to [Mouth Moods](http://www.neilcic.com/mouthmoods/) first.  
+
+Please don't use this for any commercial purpose. Also, please don't share the files outside of this link.
 
 ## Tracks Used or referenced  
 Glenn Moore. “Yankee Doodle: Whistling Cover.” Friends outside Mines Market. 2022.  
