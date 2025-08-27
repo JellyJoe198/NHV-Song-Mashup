@@ -31,4 +31,4 @@ Village People. “Y.M.C.A.” 1978.
 MLA citation for this song:  
 Brownlee, Joseph. "C.H.A.N.G.E. - Abridged." _NHV Song Mashups_. 2022. _GitHub_, http://github.com/JellyJoe198/NHV-Song-Mashup/. 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons BY License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
